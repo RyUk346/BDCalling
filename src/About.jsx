@@ -7,7 +7,7 @@ function About() {
         <div className="bg-black text-white md:flex gap-[40px] px-2 sm:px-6 md:px-16 lg:px-32 py-[180px]">
           <div>
             <img
-              src="./public/img.webp"
+              src="/img.webp"
               alt=""
               className="w-[400px] sm:w-[560px] pt-[120px] py-20"
             />
