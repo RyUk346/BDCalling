@@ -5,7 +5,7 @@ function Footer() {
       <div className="border-[#999999]">
         <footer className="footer bg-black text-white lg:flex px-10 border-b border-[#999999]">
           <nav className="py-14">
-            <img src="./public/logo2.webp" alt="" className="mb-[30px]" />
+            <img src="/logo2.webp" alt="" className="mb-[30px]" />
             <h1 className="max-w-[310px] text-[#999999] text-[16px]">
               When do they work well, and when do they on us and finally, when
               do we actually need how can we avoid them.

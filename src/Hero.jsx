@@ -18,7 +18,7 @@ function Hero() {
         {showVideo && (
           <div className="absolute inset-0 z-0 pointer-events-none">
             <video
-              src="./public/hero-3.mp4"
+              src="/hero-3.mp4"
               autoPlay
               loop
               muted
@@ -44,7 +44,7 @@ function Hero() {
               onClick={toggleVideoBackground}
             >
               <video
-                src="./public/hero-3.mp4"
+                src="/hero-3.mp4"
                 className="rounded-full w-16 h-16 mr-4"
               ></video>
               <h1 className="text-lg font-bold">
@@ -66,7 +66,7 @@ function Hero() {
         </div>
         <div className="flex justify-end mt-10">
           {!showVideo && (
-            <img src="./public/hero.jpg" alt="Hero" className="rounded-lg" />
+            <img src="/hero.jpg" alt="Hero" className="rounded-lg" />
           )}
         </div>
       </div>
@@ -76,36 +76,12 @@ function Hero() {
           We worked with global largest brands
         </h1>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 px-4 sm:px-6 md:px-16 lg:px-32 py-8">
-          <img
-            src="./public/1.png"
-            alt="Brand 1"
-            className="w-full object-contain"
-          />
-          <img
-            src="./public/2.png"
-            alt="Brand 2"
-            className="w-full object-contain"
-          />
-          <img
-            src="./public/3.png"
-            alt="Brand 3"
-            className="w-full object-contain"
-          />
-          <img
-            src="./public/4.png"
-            alt="Brand 4"
-            className="w-full object-contain"
-          />
-          <img
-            src="./public/5.png"
-            alt="Brand 5"
-            className="w-full object-contain"
-          />
-          <img
-            src="./public/6.png"
-            alt="Brand 6"
-            className="w-full object-contain"
-          />
+          <img src="/1.png" alt="Brand 1" className="w-full object-contain" />
+          <img src="/2.png" alt="Brand 2" className="w-full object-contain" />
+          <img src="/3.png" alt="Brand 3" className="w-full object-contain" />
+          <img src="/4.png" alt="Brand 4" className="w-full object-contain" />
+          <img src="/5.png" alt="Brand 5" className="w-full object-contain" />
+          <img src="/6.png" alt="Brand 6" className="w-full object-contain" />
         </div>
       </div>
     </>

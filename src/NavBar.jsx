@@ -25,7 +25,7 @@ function NavBar() {
   return (
     <div className="top-0 fixed z-50 bg-white w-full h-[85px] px-[15px] lg:px-[50px] py-[20px] flex items-center justify-between">
       <div>
-        <img src="./public/logo.png" alt="" />
+        <img src="/logo.png" alt="" />
       </div>
       <div>
         <ul className="lg:flex justify-between hidden min-w-[803px]">

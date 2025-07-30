@@ -46,7 +46,7 @@ function Works() {
               </h1>
             </div>
             <img
-              src="./public/c1.jpg"
+              src="/c1.jpg"
               alt=""
               className="z-0 pl-[40px] sm:pl-[80px] md:pl-[250px] lg:pl-[450px]"
             />
@@ -64,7 +64,7 @@ function Works() {
               </h1>
             </div>
             <img
-              src="./public/c2.jpg"
+              src="/c2.jpg"
               alt=""
               className="z-0 pl-[40px] sm:pl-[80px] md:pl-[250px] lg:pl-[450px]"
             />
@@ -82,7 +82,7 @@ function Works() {
               </h1>
             </div>
             <img
-              src="./public/c3.jpg"
+              src="/c3.jpg"
               alt=""
               className="z-0 pl-[40px] sm:pl-[80px] md:pl-[250px] lg:pl-[450px]"
             />
@@ -100,7 +100,7 @@ function Works() {
               </h1>
             </div>
             <img
-              src="./public/c4.jpg"
+              src="/c4.jpg"
               alt=""
               className="z-0 pl-[40px] sm:pl-[80px] md:pl-[250px] lg:pl-[450px]"
             />

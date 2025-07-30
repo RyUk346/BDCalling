@@ -17,7 +17,7 @@ function Blog() {
         <div className="lg:flex gap-[290px] py-10">
           <div className="relative max-w-[636px] ">
             <div>
-              <img src="./public/b1.jpg" alt className="z-0" />
+              <img src="/b1.jpg" alt className="z-0" />
             </div>
             <div className="max-w-[364px] h-[247px] bg-white border border-b absolute bottom-0 right-[-0px] sm:right-[-80px] md:right-[-150px] z-10 p-[40px]">
               <h1 className="text[15px] text-[#555555]">
@@ -54,7 +54,7 @@ function Blog() {
           </div>
           <div className="relative max-w-[636px] ">
             <div>
-              <img src="./public/b2.jpg" alt className="z-0" />
+              <img src="/b2.jpg" alt className="z-0" />
             </div>
             <div className="max-w-[364px] h-[247px] bg-white border border-b absolute bottom-0 right-[-0px] sm:right-[-80px] md:right-[-150px] z-10 p-[40px]">
               <h1 className="text[15px] text-[#555555]">
